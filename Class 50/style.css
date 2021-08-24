@@ -1,0 +1,22 @@
+.head{
+    color: red;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+*{
+    border:  solid;
+}
+
+.social{
+    display: flex;
+    justify-content: row;
+
+}
+
+h3{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}    
